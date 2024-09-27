@@ -1,7 +1,7 @@
 :orphan:
 
 ##############################
-AN0xxxx: app_note_title
+an3333: app note three three
 ##############################
 
 :vendor: XMOS
@@ -15,7 +15,6 @@ AN0xxxx: app_note_title
 Overview
 ********
 
-DO NOT FORK THIS REPO - CLICK "USE THIS TEMPLATE" ⬆️
 
 <OVERVIEW OF APP NOTE HERE - DISPLAYED ON APP NOTE LANDING PAGE>
 
